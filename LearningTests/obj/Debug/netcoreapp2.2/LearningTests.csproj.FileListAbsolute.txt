@@ -1,0 +1,10 @@
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\bin\Debug\netcoreapp2.2\LearningTests.deps.json
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\bin\Debug\netcoreapp2.2\LearningTests.runtimeconfig.json
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\bin\Debug\netcoreapp2.2\LearningTests.runtimeconfig.dev.json
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\bin\Debug\netcoreapp2.2\LearningTests.dll
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\bin\Debug\netcoreapp2.2\LearningTests.pdb
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\obj\Debug\netcoreapp2.2\LearningTests.csproj.CoreCompileInputs.cache
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\obj\Debug\netcoreapp2.2\LearningTests.AssemblyInfoInputs.cache
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\obj\Debug\netcoreapp2.2\LearningTests.AssemblyInfo.cs
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\obj\Debug\netcoreapp2.2\LearningTests.dll
+C:\projetos\pessoal\estudos\eduardo-pires-testes\LearningTests\LearningTests\obj\Debug\netcoreapp2.2\LearningTests.pdb
