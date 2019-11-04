@@ -5992,9 +5992,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\pessoal\\estudos\\eduardo-pires-testes\\LearningTests\\LearingXUnitTests\\LearingXUnitTests.csproj",
-      "projectName": "LearingXUnitTests",
-      "projectPath": "C:\\projetos\\pessoal\\estudos\\eduardo-pires-testes\\LearningTests\\LearingXUnitTests\\LearingXUnitTests.csproj",
+      "projectUniqueName": "C:\\projetos\\pessoal\\estudos\\eduardo-pires-testes\\LearningTests\\LearingXUnitTests\\LearningTests.csproj",
+      "projectName": "LearningTests",
+      "projectPath": "C:\\projetos\\pessoal\\estudos\\eduardo-pires-testes\\LearningTests\\LearingXUnitTests\\LearningTests.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\pessoal\\estudos\\eduardo-pires-testes\\LearningTests\\LearingXUnitTests\\obj\\",
       "projectStyle": "PackageReference",

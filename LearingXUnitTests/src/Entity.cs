@@ -5,7 +5,7 @@ namespace LearingXUnitTests
 {
     public class Entity
     {
-        protected Guid Id { get; set; }
-        protected ValidationResult ValidationResult { get; set; }
+        public Guid Id { get; set; }
+        public ValidationResult ValidationResult { get; set; }
     }
 }
