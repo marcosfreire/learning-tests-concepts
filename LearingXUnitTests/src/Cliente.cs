@@ -53,6 +53,8 @@ namespace LearingXUnitTests
     {
         public ClienteValidacao()
         {
+            RuleFor(a => a.DataNascimento).LessThan(DateTime.Now).WithMessage("O campo Data de nascimento é inválido");
+
             RuleFor(a => a.Nome).NotEmpty().WithMessage("O campo Nome é Obrigatório");
 
             RuleFor(a => a.SobreNome).NotEmpty().WithMessage("O campo SobreNome é Obrigatório");
