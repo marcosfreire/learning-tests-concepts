@@ -1,0 +1,8 @@
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\bin\Release\netcoreapp3.1\App.Domain.deps.json
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\bin\Release\netcoreapp3.1\App.Domain.dll
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\bin\Release\netcoreapp3.1\App.Domain.pdb
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\obj\Release\netcoreapp3.1\App.Domain.csprojAssemblyReference.cache
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\obj\Release\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\obj\Release\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\obj\Release\netcoreapp3.1\App.Domain.dll
+C:\projetos\pessoal\estudos\learning-tests\src\App.Domain\App.Domain\obj\Release\netcoreapp3.1\App.Domain.pdb
