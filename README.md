@@ -1,10 +1,10 @@
-# learning-software-tests
+# CURSO - DOMINANDO OS TESTES DE SOFTWARE
 
 ### Project to master tests concepts
 
-- Unit Tests
-- Integration Tests
+- Unit Tests ( Xunit, MoQ, FluentAssertions, Bogus, etc ...)
 - TDD
+- Integration Tests
 - BDD
 - Automated Tests
 - Stress Tests
