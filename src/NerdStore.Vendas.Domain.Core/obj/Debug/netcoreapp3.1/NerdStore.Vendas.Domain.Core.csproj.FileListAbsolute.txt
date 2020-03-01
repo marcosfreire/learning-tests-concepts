@@ -1,0 +1,8 @@
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.deps.json
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.dll
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.pdb
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.csprojAssemblyReference.cache
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.AssemblyInfoInputs.cache
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.AssemblyInfo.cs
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.dll
+C:\projetos\pessoal\estudos\learning-tests\src\NerdStore.Vendas.Domain.Core\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.Core.pdb

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "NerdStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Vendas.Domain.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../NerdStore.Vendas.Domain.Core/NerdStore.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "NerdStore.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\marco\\.nuget\\packages\\": {},
@@ -31,11 +50,15 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "http://nexus.orizon.local/repository/nuget-group/": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\projetos\\pessoal\\estudos\\learning-tests\\src\\NerdStore.Vendas.Domain.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\projetos\\pessoal\\estudos\\learning-tests\\src\\NerdStore.Vendas.Domain.Core\\NerdStore.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
